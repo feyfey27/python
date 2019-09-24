@@ -1,3 +1,4 @@
+print("Welcome to the special recruitment program, please answer the following questions:")
 skills = ["swim", "run", "cycle", "weightlift", "boxing", "golf"]
 cv = {}
 
