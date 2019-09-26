@@ -23,3 +23,4 @@ for item in items:
 	print(item["quantity"], item["name"], item["price"] * item["quantity"], "KD")
 	total += item["price"] * item["quantity"]
 print("Total Price: ", total, "KD")
+
